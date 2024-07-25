@@ -1,0 +1,17 @@
+.classe1 {
+    background: rgb(0, 255, 85);
+  }
+
+  #id01 {
+    background: blue;
+  }
+  #id02 {
+    background: yellow;
+  }
+  #id03 {
+    background: lightblue;
+  }
+ h1 {
+    block-size: 100px;
+    color: brown ;
+ }
